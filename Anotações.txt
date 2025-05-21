@@ -1,0 +1,19 @@
+OBJETIVO GERAL
+- Entender como foi o comportamento da população na época da pandemia da COVID-19 e demonstrar quais indicadores seriam importantes para o planejamento, caso haja um novo surto da doença.
+
+ESPECÍFICOS
+- Organizar banco de dados em nuvem;
+- Utilizar no máximo 20 questionamentos realizados na pesquisa;
+- Utilizar 3 meses para a construção da solução;
+- Caracterizar os sintomas clínicos da população;
+- Caracterizar o comportamento da população na época;
+- Caracterizar a economia da sociedade na época.
+
+INFORMAÇÕES RELEVANTES
+- Características clínicas dos sintomas
+- Características da população
+- Características econômicas
+
+BASE DE DADOS
+- https://covid19.ibge.gov.br/pnad-covid/
+

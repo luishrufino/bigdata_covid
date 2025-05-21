@@ -1,0 +1,114 @@
+﻿Question;Value;Ref
+UF;11;Rondônia
+UF;12;Acre
+UF;13;Amazonas
+UF;14;Roraima
+UF;15;Pará
+UF;16;Amapá
+UF;17;Tocantins
+UF;21;Maranhão
+UF;22;Piauí
+UF;23;Ceará
+UF;24;Rio Grande do Norte
+UF;25;Paraíba
+UF;26;Pernambuco
+UF;27;Alagoas
+UF;28;Sergipe
+UF;29;Bahia
+UF;31;Minas Gerais
+UF;32;Espírito Santo
+UF;33;Rio de Janeiro
+UF;35;São Paulo
+UF;41;Paraná
+UF;42;Santa Catarina
+UF;43;Rio Grande do Sul
+UF;50;Mato Grosso do Sul
+UF;51;Mato Grosso
+UF;52;Goiás
+UF;53;Distrito Federal
+mes_pesquisa;1;Janeiro
+mes_pesquisa;2;Fevereiro
+mes_pesquisa;3;Março
+mes_pesquisa;4;Abril
+mes_pesquisa;5;Maio
+mes_pesquisa;6;Junho
+mes_pesquisa;7;Julho
+mes_pesquisa;8;Agosto
+mes_pesquisa;9;Setembro
+mes_pesquisa;10;Outubro
+mes_pesquisa;11;Novembro
+mes_pesquisa;12;Dezembro
+sexo;1;Homem
+sexo;2;Mulher
+escolaridade;1;Sem instrução
+escolaridade;2;Fundamental incompleto
+escolaridade;3;Fundamental completa
+escolaridade;4;Médio incompleto
+escolaridade;5;Médio completo
+escolaridade;6;Superior incompleto
+escolaridade;7;Superior completo
+escolaridade;8;Pós-graduação, mestrado ou doutorado
+recebeu_auxilio;1;Sim
+recebeu_auxilio;2;Não
+teve_febre_semana_passada;1;Sim
+teve_febre_semana_passada;2;Não 
+teve_febre_semana_passada;3;Não sabe
+teve_febre_semana_passada;9;Ignorado
+teve_tosse_semana_passada;1;Sim
+teve_tosse_semana_passada;2;Não 
+teve_tosse_semana_passada;3;Não sabe
+teve_tosse_semana_passada;9;Ignorado
+teve_dor_garganta_semana_passada;1;Sim
+teve_dor_garganta_semana_passada;2;Não 
+teve_dor_garganta_semana_passada;3;Não sabe
+teve_dor_garganta_semana_passada;9;Ignorado
+teve_dificuldade_respirar;1;Sim
+teve_dificuldade_respirar;2;Não 
+teve_dificuldade_respirar;3;Não sabe
+teve_dificuldade_respirar;9;Ignorado
+teve_dor_cabeca;1;Sim
+teve_dor_cabeca;2;Não 
+teve_dor_cabeca;3;Não sabe
+teve_dor_cabeca;9;Ignorado
+teve_dor_peito;1;Sim
+teve_dor_peito;2;Não 
+teve_dor_peito;3;Não sabe
+teve_dor_peito;9;Ignorado
+teve_nausea;1;Sim
+teve_nausea;2;Não 
+teve_nausea;3;Não sabe
+teve_nausea;9;Ignorado
+teve_nariz_entupido;1;Sim
+teve_nariz_entupido;2;Não 
+teve_nariz_entupido;3;Não sabe
+teve_nariz_entupido;9;Ignorado
+trabalhou_semana_passada;1;Sim
+trabalhou_semana_passada;2;Não
+trabalhou_semana_passada;;Não aplicável
+fez_exame;1;Sim
+fez_exame;2;Não 
+fez_exame;9;Ignorado
+resultado_swab;1;Positivo
+resultado_swab;2;Negativo
+resultado_swab;3;Inconclusivo
+resultado_swab;4;Ainda não recebeu o resultado
+resultado_swab;9;Ignorado
+resultado_swab;;Não aplicável
+resultado_furo_no_dedo;1;Positivo
+resultado_furo_no_dedo;2;Negativo
+resultado_furo_no_dedo;3;Inconclusivo
+resultado_furo_no_dedo;4;Ainda não recebeu o resultado
+resultado_furo_no_dedo;9;Ignorado
+resultado_furo_no_dedo;;Não aplicável
+resultado_veia_no_braco;1;Positivo
+resultado_veia_no_braco;2;Negativo
+resultado_veia_no_braco;3;Inconclusivo
+resultado_veia_no_braco;4;Ainda não recebeu o resultado
+resultado_veia_no_braco;9;Ignorado
+resultado_veia_no_braco;;Não aplicável
+providencia_exame;1;Não fez restrição, levou vida normal como antes da pandemia
+providencia_exame;2;Reduziu o contato com as pessoas, mas continuou saindo de casa para trabalho ou atividades não essenciais e/ou recebendo visitas
+providencia_exame;3;Ficou em casa e só saiu em caso de necessidade básica
+providencia_exame;4;Ficou rigorosamente em casa
+providencia_exame;9;Ignorado
+providencia_exame;;Não aplicável
