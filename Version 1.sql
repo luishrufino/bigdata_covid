@@ -19,6 +19,21 @@ SELECT
   resultado_furo_no_dedo,
   resultado_veia_no_braco,
   providencia_exame,
+  CASE
+    WHEN fez_exame = 1 AND (
+      resultado_swab = 1 OR 
+      resultado_furo_no_dedo = 1 OR 
+      resultado_veia_no_braco = 1
+    ) THEN 'Positivo'
+    
+    WHEN fez_exame = 1 AND (
+      resultado_swab = 2 OR 
+      resultado_furo_no_dedo = 2 OR 
+      resultado_veia_no_braco = 2
+    ) THEN 'Negativo'
+    
+    ELSE NULL
+  END AS resultado_final,
   COUNT(*) AS total
 FROM `pnad-covid-460322.ibgepnad.PNAD-2020`
 GROUP BY 
@@ -41,4 +56,19 @@ GROUP BY
   resultado_swab,
   resultado_furo_no_dedo,
   resultado_veia_no_braco,
-  providencia_exame
+  providencia_exame,
+  CASE
+    WHEN fez_exame = 1 AND (
+      resultado_swab = 1 OR 
+      resultado_furo_no_dedo = 1 OR 
+      resultado_veia_no_braco = 1
+    ) THEN 'Positivo'
+    
+    WHEN fez_exame = 1 AND (
+      resultado_swab = 2 OR 
+      resultado_furo_no_dedo = 2 OR 
+      resultado_veia_no_braco = 2
+    ) THEN 'Negativo'
+    
+    ELSE NULL
+  END
